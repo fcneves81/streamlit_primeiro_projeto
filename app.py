@@ -28,9 +28,9 @@ banner = Image.open("images/capa-github.png")
 with st.container():
     st.subheader("Que bom ter você aqui 😉")
     st.image(banner)
-    st.title("Engenheiro de Sotfware em formação")
+    st.title("Engenheiro de Sotfware 💻")
     st.write("A cada dia, aprendendo mais sobre o maravilhoso mundo do Python e Java para enfrentar os desafios do dia a dia!")
-    st.write("[Conheça meus projetos e aprendizado até aqui >](https://github.com/fcneves81)") 
+    st.write("[>>> Conheça meus projetos e aprendizado até aqui <<<](https://github.com/fcneves81)") 
  
 # SOBRE MIM
 
